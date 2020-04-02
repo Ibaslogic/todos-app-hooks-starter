@@ -1,22 +1,20 @@
-## Easy React JS for Beginners Ebook (Todos App Updated Source Code)
+## Easy React JS for Beginners Ebook (Todos App React Hooks Starter)
 
-### HTTP Request and lifecycle methods.
+To follow the React Hoooks chapter
 
-> check here for the **React Hooks version of the todos app**:
-
-## Clone this project
+### Clone this project
 
 You can download or clone this project by running this command from your terminal:
 
 ```
-git clone https://github.com/Ibaslogic/http-request-lifecycle-methods
+git clone https://github.com/Ibaslogic/todos-app-hooks-starter
 ```
 
-This will create a directory in the name of the project folder. In this case, `http-request-lifecycle-methods`.
+This will create a directory in the name of the project folder.
 
 Once you have the project files and folders bootstrapped, open it with your text editor. Here, I will be using VsCode.
 
-Next, switch inside the directory (`cd http-request-lifecycle-methods`) and run:
+Next, switch inside the project directory and run:
 
 ```
 npm install
