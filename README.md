@@ -1,6 +1,6 @@
 ## Easy React JS for Beginners Ebook (Todos App React Hooks Starter)
 
-To follow the React Hoooks chapter
+To follow the React Hooks chapter
 
 ### Clone this project
 
